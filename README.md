@@ -4,7 +4,7 @@
 
 ---
 
-## 🇧🇷 Versão em Português 🇧🇷
+## Versão em Português
 
 Este projeto é uma **landing page fictícia** desenvolvida para a *Barbearia Bhorius*, com o objetivo de praticar e demonstrar minhas habilidades em **HTML** e **CSS**, com uma pequena aplicação de **JavaScript**.
 
@@ -47,7 +47,7 @@ Desenvolvido por **Esdras Furmanovicz**, entusiasta em tecnologia e desenvolvime
 
 ---
 
-## 🇺🇸 English Version 🇺🇸
+## English Version
 
 This project is a **fictional landing page** created for *Bhorius Barbershop*, aimed at practicing and showcasing my skills in **HTML** and **CSS**, with a small application of **JavaScript**.
 
