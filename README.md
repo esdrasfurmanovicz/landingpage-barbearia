@@ -1,6 +1,6 @@
 # Landing Page - Barbearia Bhorius ✂️
 
-[🇧🇷 Versão em Português](#versao-em-portugues) | [🇺🇸 English Version](#english-version) | [🔍 Preview](#preview)
+[🇧🇷 Versão em Português](#versao-em-portugues) | [🇺🇸 English Version](#english-version) | [🔍 Preview](#preview-)
 
 
 ---
