@@ -1,6 +1,7 @@
 # Landing Page - Barbearia Bhorius ✂️
 
-[🇧🇷 Versão em Português](#versao-em-portugues) | [🇺🇸 English Version](#english-version) | [Preview](#preview)
+[🇧🇷 Versão em Português](#versao-em-portugues) | [🇺🇸 English Version](#english-version) | [🔍 Preview](#preview)
+
 
 ---
 
@@ -82,6 +83,6 @@ Developed by **Esdras Furmanovicz**, a technology and web development enthusiast
 
 ---
 
-### 📸 Preview
+## Preview 🔍
 
 ![Landing Page Preview](https://github.com/user-attachments/assets/20aee5df-542f-4acf-9342-226a0dc1a798)
