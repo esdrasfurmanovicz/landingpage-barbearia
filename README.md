@@ -1,6 +1,6 @@
 # Landing Page - Barbearia Bhorius ✂️
 
-[🇧🇷 Versão em Português](#versão-em-português-) | [🇺🇸 English Version](#english-version-)
+[🇧🇷 Versão em Português](#versao-em-portugues) | [🇺🇸 English Version](#english-version) | [Preview](#preview)
 
 ---
 
@@ -24,10 +24,6 @@ A página tem como foco a **apresentação clara dos serviços**, **design atrae
 - Demonstrar domínio de HTML e CSS  
 - Iniciar o uso básico de JavaScript  
 - Aprimorar habilidades de design responsivo
-
-### 📸 Preview
-
-![Preview da Landing Page](https://github.com/user-attachments/assets/20aee5df-542f-4acf-9342-226a0dc1a798)
 
 ### 📁 Estrutura do Projeto
 
@@ -68,10 +64,6 @@ The page focuses on **clear service presentation**, **attractive design**, and a
 - Start applying basic JavaScript  
 - Improve responsive design skills
 
-### 📸 Preview
-
-![Landing Page Preview](https://github.com/user-attachments/assets/20aee5df-542f-4acf-9342-226a0dc1a798)
-
 ### 📁 Project Structure
 
 ```text
@@ -87,3 +79,9 @@ landingpage-barbearia/
 ### 👨‍💻 About the Developer
 
 Developed by **Esdras Furmanovicz**, a technology and web development enthusiast. This project represents the start of my **JavaScript** journey after building a solid foundation in HTML and CSS.
+
+---
+
+### 📸 Preview
+
+![Landing Page Preview](https://github.com/user-attachments/assets/20aee5df-542f-4acf-9342-226a0dc1a798)
